@@ -1,6 +1,6 @@
 # FP_Group 6_Mahdi-Mohammadkhani_ITAI2372
 
-# Conceptual Design Plan for AI Solution for NASA Space Mission  
+ Conceptual Design Plan for AI Solution for NASA Space Mission  
 *Track Chosen:* Conceptual Design
 
 ## Project Description  
